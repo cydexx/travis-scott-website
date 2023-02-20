@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Salatiga";
+  src: url("./assets/Salatiga.ttf");
+}
+@layer base {
+  .font-outline {
+    -webkit-text-stroke: 3px #c43e1b;
+  }
+}
