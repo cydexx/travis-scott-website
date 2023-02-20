@@ -110,7 +110,7 @@ const Header = () => {
           </nav>
         </div>
 
-        <div className="hidden sm:block  ">
+        <div className="block   ">
           <Link
             href="/"
             className="flex items-center  text-3xl  text-main-color gap-5 group hover:text-white transition-all duration-300"
