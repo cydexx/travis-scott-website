@@ -52,9 +52,9 @@ const Header = () => {
   return (
     <header
       aria-label="Site Header"
-      className="bg-transparent fixed top-0 z-30 w-full font-salatiga"
+      className="bg-transparent fixed top-0 z-40 w-full font-salatiga"
     >
-      <div className="mx-auto flex h-16 max-w-screen-2xl items-center justify-between sm:px-6 lg:px-8">
+      <div className="mx-auto flex h-16 max-w-screen-2xl items-center justify-between px-6 lg:px-8">
         <div className="flex  items-center ">
           <button
             type="button"
